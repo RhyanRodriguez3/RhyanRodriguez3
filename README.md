@@ -5,7 +5,7 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 ## Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /><br />
 <br />
-
+<!---
 <details>
  <summary>Read List *WIP*</summary>
 
@@ -24,7 +24,7 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 - Nonviolent Communication marshall b. rosenberg PhD.
 - Verbal Judo The Gentle Art of Persuasion
 - The Charisma Myth olivia fox cabane
-
+- Book on How to have conversations.
 
 </details>
 
