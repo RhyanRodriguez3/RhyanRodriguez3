@@ -25,6 +25,8 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 - Verbal Judo The Gentle Art of Persuasion
 - The Charisma Myth olivia fox cabane
 - Book on How to have conversations.
+- The fastlane millionaire
+- 80/20 sales in marketing, the fastlanece millionaire, 
 
 </details>
 
