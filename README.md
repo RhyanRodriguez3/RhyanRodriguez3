@@ -27,6 +27,8 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 - Book on How to have conversations.
 - The fastlane millionaire
 - 80/20 sales in marketing, the fastlanece millionaire, 
+- Rich Dads: Conspiracy of the rich 
+- The millionaire secret:
 
 </details>
 
