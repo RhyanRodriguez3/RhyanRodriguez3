@@ -28,7 +28,8 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 - The fastlane millionaire
 - 80/20 sales in marketing, the fastlanece millionaire, 
 - Rich Dads: Conspiracy of the rich 
-- The millionaire secret:
+- The millionaire secret: / Secrets of the millionaire mind. 
+- Decurity analysis sixth edition by bejamin graham and david L dood. 
 
 </details>
 
