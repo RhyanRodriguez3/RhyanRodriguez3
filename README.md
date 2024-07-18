@@ -3,7 +3,9 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 <br />
 
 ## Languages and Tools
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /><br />
+-	Don’t ruminate on negative problems, focus on enjoying the experience. Know what benefit you want and what problems you can live with.
+-	“Simplicity is the ultimate sophistication.” – Leonardo Da Vinci
+-	“Life is a series of games. Learn the rules, and play to win.” - Albert Einstein
 <br />
 <!---
 <details>
