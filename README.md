@@ -6,6 +6,11 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 -	Don’t ruminate on negative problems, focus on enjoying the experience. Know what benefit you want and what problems you can live with.
 -	“Simplicity is the ultimate sophistication.” – Leonardo Da Vinci
 -	“Life is a series of games. Learn the rules, and play to win.” - Albert Einstein
+-	"If you think education is expensive, try ignorance."- *Derek Bok, Harvard President* <br>
+- "The greater the goal the greater the sacrifice to achieve it." - *HOF Shannon Sharpe* <br>
+- "Financial education is the first step towards financial freedom." - *Robert Kiyosaki* <br>
+- "Financial Freedom is about being independant." - *Tom Wheelwright, CPA* <br>
+- "Luck is when opportunity and preparation meet." - *Shannon Sharpe, HOF NFL Tight-End* 
 <br />
 <!---
 <details>
