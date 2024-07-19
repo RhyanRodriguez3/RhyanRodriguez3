@@ -37,7 +37,8 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 - Rich Dads: Conspiracy of the rich 
 - The millionaire secret: / Secrets of the millionaire mind. 
 - Decurity analysis sixth edition by bejamin graham and david L dood. 
-
+Another book I think I need to read is Brbarians to bearacrates. Lawrence M mILLER. 
+bLUE OCean strategy 
 </details>
 
 <!---
