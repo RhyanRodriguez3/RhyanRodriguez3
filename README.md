@@ -3,7 +3,6 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 <br />
 
 ## Languages and Tools
--	Don’t ruminate on negative problems, focus on enjoying the experience. Know what benefit you want and what problems you can live with.
 -	“Simplicity is the ultimate sophistication.” – Leonardo Da Vinci
 -	“Life is a series of games. Learn the rules, and play to win.” - Albert Einstein
 -	"If you think education is expensive, try ignorance."- *Derek Bok, Harvard President* <br>
