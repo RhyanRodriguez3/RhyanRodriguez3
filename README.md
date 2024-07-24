@@ -1,19 +1,10 @@
-# Welcome!
-I'm a self-taught developer whose had the fortune of a great mentor. Explore my repos, they're guides for beginners. 
+# Look around! 
+BIO WIP 
+
 <br />
 
-## Languages and Tools
--	“Simplicity is the ultimate sophistication.” – Leonardo Da Vinci
--	“Life is a series of games. Learn the rules, and play to win.” - Albert Einstein
--	"If you think education is expensive, try ignorance."- *Derek Bok, Harvard President* <br>
-- "The greater the goal the greater the sacrifice to achieve it." - *HOF Shannon Sharpe* <br>
-- "Financial education is the first step towards financial freedom." - *Robert Kiyosaki* <br>
-- "Financial Freedom is about being independant." - *Tom Wheelwright, CPA* <br>
-- "Luck is when opportunity and preparation meet." - *Shannon Sharpe, HOF NFL Tight-End* 
-<br />
-<!---
 <details>
- <summary>Read List *WIP*</summary>
+<summary>📕 About Me</summary>
 
 - The laws of human nature
 - Games People Play: The Psychology of Human Relationships - Eric Berne
@@ -39,15 +30,20 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 - Brbarians to bearacrates. Lawrence M mILLER. 
 - bLUE OCean strategy (Marketing, differentiation strategy)
 - Who not HOw by dan sullivan with dr ben hardy
-- SOLD: Every Real Estate Agent’s Guide to Building a Profitable Business by David M Greene  
+- SOLD: Every Real Estate Agent’s Guide to Building a Profitable Business by David M Greene 
+ 
+<br />
+
 
 </details>
+<br />
+<!------>
 
 <!---
 ### "Oh no! A snake ATE my Github contributions!" - https://www.youtube.com/watch?v=pkY18HTfeL8
 ![snake gif](https://github.com/RhyanRodriguez3/RhyanRodriguez3/blob/output/github-contribution-grid-snake.svg)
 
-Making my github stand out, in my style. 
+Making my github stand out to employers with the bio. 
 Badges - https://www.youtube.com/watch?v=oJWFfp3sGYA
 Input YT courses with images w/ Forrest- https://www.youtube.com/watch?v=9A8sQZDRn5o
 Hacking COntributions Graph - https://www.youtube.com/watch?v=2q--gA97caM
