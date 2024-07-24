@@ -5,6 +5,7 @@ BIO WIP
 
 <details>
 <summary>📕 About Me</summary>
+<br />
 
 - The laws of human nature
 - Games People Play: The Psychology of Human Relationships - Eric Berne
