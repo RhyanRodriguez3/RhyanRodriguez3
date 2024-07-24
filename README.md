@@ -32,7 +32,8 @@ BIO WIP
 - bLUE OCean strategy (Marketing, differentiation strategy)
 - Who not HOw by dan sullivan with dr ben hardy
 - SOLD: Every Real Estate Agent’s Guide to Building a Profitable Business by David M Greene
-- 22 Immutable laws of marketing. 
+- 22 Immutable laws of marketing.
+- Stress Management Book
  
 <br />
 
