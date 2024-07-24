@@ -1,4 +1,4 @@
-# Employers, verify my experience with these repo projects! 
+# Employers, check out these useful solutions! 
 BIO WIP 
 
 <br />
