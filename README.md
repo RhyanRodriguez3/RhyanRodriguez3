@@ -7,33 +7,7 @@ BIO WIP
 <summary>📕 About Me</summary>
 <br />
 
-- The laws of human nature
-- Games People Play: The Psychology of Human Relationships - Eric Berne
-- Game Theory 101 - https://www.youtube.com/watch?v=NSVmOC_5zrE&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo
-- The art of small talk Debra Fine???
-- Letters to a younger brother - Hill Harper
-- Never Split the Difference: Negotiating As If Your Life Depended On It - Chris Voss
-   - Negotiation genius
-- War Is A Racket - Smedley D Butler
-  - Propaganda by Edward Bernays
-- What Every BODY is Saying by Joe Navarro 
-- The Banker's Code: The Most Powerful Wealth-Building Strategies Finally Revealed by George Antone
-- The Pyschology of Money
-- Nonviolent Communication marshall b. rosenberg PhD.
-- Verbal Judo The Gentle Art of Persuasion
-- The Charisma Myth olivia fox cabane
-- Book on How to have conversations.
-- The fastlane millionaire
-- 80/20 sales in marketing, the fastlanece millionaire, 
-- Rich Dads: Conspiracy of the rich 
-- The millionaire secret: / Secrets of the millionaire mind. 
-- Decurity analysis sixth edition by bejamin graham and david L dood. 
-- Brbarians to bearacrates. Lawrence M mILLER. 
-- bLUE OCean strategy (Marketing, differentiation strategy)
-- Who not HOw by dan sullivan with dr ben hardy
-- SOLD: Every Real Estate Agent’s Guide to Building a Profitable Business by David M Greene
-- 22 Immutable laws of marketing.
-- Stress Management Book
+WIP
  
 <br />
 
