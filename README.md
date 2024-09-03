@@ -1,5 +1,6 @@
 # Hi, I'm the data janitor.
-BIO WIP 
+FOR employers: Look around these useful solutions.
+FOR students: Check the data analyst fundamentals guide. 
 
 <br />
 
