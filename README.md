@@ -5,7 +5,7 @@ FOR students: Check the data analyst fundamentals guide.
 <br />
 
 <details>
-<summary>📕 About Me</summary>
+<summary>About Me</summary>
 <br />
 
 WIP
