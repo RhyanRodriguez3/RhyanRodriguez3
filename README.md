@@ -8,7 +8,9 @@
 <summary>About Me</summary>
 <br />
 
-WIP
+5+ years’ experience as a business analyst working on quality improvement projects in the healthcare industry. Helping professional understand their data and collaborating towards strategic goals. <br>
+
+Skills involve data management, advanced analytics, and reports development. Exceptional in project management, problem-solving, verbal, and written communication. 3+ years’ experience in Software Development Life Cycle, MS SQL Server, and data storytelling. <br>
  
 <br />
 
