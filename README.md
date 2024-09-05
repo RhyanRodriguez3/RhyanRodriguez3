@@ -1,6 +1,6 @@
 # Hi, I'm your data janitor.
-FOR employers: Look around these useful solutions. <br>
-FOR students: Check the data analyst fundamentals guide. 
+IF Employer: Explore previous solutions and assess my skills. <br>
+IF Student: Check the data analyst fundamentals guide. <br>
 
 <br />
 
