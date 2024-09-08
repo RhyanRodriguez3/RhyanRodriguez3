@@ -1,6 +1,8 @@
 # Hi! I'm <ins>your data janitor</ins>.
-- IF Employer: Explore previous solutions and assess my skills. <br>
-- IF Student: Check the my data analyst's fundamentals guides. <br>
+<br >
+
+- EMPLOYERS: Explore previous solutions and assess my skills. <br>
+- If student: check the data professional's fundamentals guides. <br>
 
 <br />
 
