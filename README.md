@@ -2,7 +2,7 @@
 <br >
 
 - EMPLOYERS: Explore previous solutions and assess my skills. <br>
-- If student: check the data professional's fundamentals guides. <br>
+- If student: check the data pro fundamentals guides. <br>
 
 <br />
 
