@@ -1,4 +1,4 @@
-# 👋🏽Hi! I'm <ins>your data janitor</ins>.
+# 👋🏽Hi! I'm <ins>your data janitor</ins> 😎
 <br >
 
 - EMPLOYERS: Explore previous solutions and assess my skills. <br>
