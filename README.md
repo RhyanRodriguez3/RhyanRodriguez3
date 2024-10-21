@@ -10,7 +10,7 @@
 <summary>About Me</summary>
 <br />
 
-5+ years’ experience as a business analyst working on quality improvement projects in the healthcare industry. I love data management, creating (and optimizing) solutions, helping professionals understand their data, and collaborating towards strategic goals. <br>
+I've got 5 years experience as an analyst in the healthcare industry; notable clients being Children's Hospital of Los Angeles, UCLA Medical Center, and Cedars Sinai. I love being a data janitor, creating solutions, and using tech to drive strategic goals. <br>
  
 <br />
 
