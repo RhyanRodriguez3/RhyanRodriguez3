@@ -10,7 +10,7 @@
 <summary>About Me</summary>
 <br />
 
-I've got 5 years experience as an analyst in the healthcare industry; notable clients being Children's Hospital of Los Angeles, UCLA Medical Center, and Cedars Sinai. I love being a data janitor, creating solutions, and using tech to drive strategic goals. <br>
+I've got 5 years experience as an analyst in the healthcare industry; notable clients being Children's Hospital of Los Angeles, UCLA Medical Center, and Cedars Sinai. I love being a data janitor, creating solutions, and playing strategy games. <br>
  
 <br />
 
