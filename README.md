@@ -1,8 +1,8 @@
 # 👋🏽Hi. I'm <ins>your data janitor</ins>.
 <br >
 
-- For EMPLOYER: Explore my previous solutions. <br>
-- If student: Check out the data fundamentals guides. <br>
+- EMPLOYERS! Explore my previous solutions. <br>
+- STUDENTS! Peruse my data fundamentals guides. <br>
 
 <br />
 
