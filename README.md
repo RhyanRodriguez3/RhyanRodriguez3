@@ -2,7 +2,7 @@
 <br >
 
 - EMPLOYERS! Explore my previous solutions. <br>
-- STUDENTS! Peruse my data fundamentals guides. <br>
+- STUDENTS! Review my data fundamental guides. <br>
 
 <br />
 
