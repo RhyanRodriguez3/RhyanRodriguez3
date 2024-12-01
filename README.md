@@ -1,7 +1,7 @@
 # 👋🏽Hi. I'm <ins>your data janitor</ins>.
 <br >
 
-Da-ta-Jan·i·tor 🔊: A data storytelling machine. 
+Da-ta Jan·i·tor 🔊: A data storytelling machine. 
 > *"He's a data janitor, was almost FANG ready but we got him at a steal."* - VP at UCLA Medical Center
 <br >
 
