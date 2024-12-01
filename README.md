@@ -5,7 +5,7 @@ Da-ta Jan·i·tor 🔊: A data storytelling machine.
 > *"He's a data janitor, was almost FANG ready but we got him at a steal."* - VP at UCLA Medical Center
 <br >
 
-Synonyms: `Senior Data Analyst` `Spreadsheet GOAT` `Excel God` `Python human` `Data Wizard` `Gmail celebrity` `Pattern Detective`
+Synonyms  `Senior Data Analyst` `Spreadsheet GOAT` `Excel God` `Python human` `Data Wizard` `Gmail celebrity` `Pattern Detective`
 <br >
 
 <br />
