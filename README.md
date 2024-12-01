@@ -2,9 +2,10 @@
 <br >
 
 Da-ta-Jan·i·tor 🔊: A data storytelling machine. 
-> *"He's a data janitor, was almost FANG ready but we got him at a steal."* - VP at UCLA Medical Center <br>
+> *"He's a data janitor, was almost FANG ready but we got him at a steal."* - VP at UCLA Medical Center
+<br >
 
-SYNONYMS: `Senior Data Analyst` `Spreadsheet GOAT` `Excel God` `Python human` `Data Wizard` `Gmail celebrity` `Pattern Detective` <br>
+Synonyms: `Senior Data Analyst` `Spreadsheet GOAT` `Excel God` `Python human` `Data Wizard` `Gmail celebrity` `Pattern Detective` <br>
 <br >
 
 
@@ -13,7 +14,7 @@ SYNONYMS: `Senior Data Analyst` `Spreadsheet GOAT` `Excel God` `Python human` `D
 <br />
 
 <details>
-<summary>⚠️About Me</summary>
+<summary> ⚠️ <ins>About Me </ins> </summary>
 <br />
 
 I was a data janitor for CHLA during the Johnny Depp trials. Ask me about it. In the meantime, explore my previous solutions. Or check out my guides on data fundamentals. I enjoy cleaning data, developing custom solutions, strategic collaboration, and creative (data) storytelling. <br>
