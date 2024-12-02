@@ -6,7 +6,7 @@ Da-ta Jan·i·tor 🔊: A data storytelling machine.
 <br >
 
 Synonyms <br>
-`Senior Data Analyst` `Spreadsheet GOAT` `Excel God` `ETL phenom` `Python human` `Data Wizard` `Gmail celebrity` `Pattern Detective` `Mr. DumbitDown`
+`Senior Data Analyst` `Data Wizard` `Spreadsheet GOAT` `Excel God` `ETL phenom` `Python human` `Gmail celebrity` `Pattern Detective` 
 <br >
 
 <br />
