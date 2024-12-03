@@ -12,7 +12,7 @@ Synonyms <br>
 <br />
 
 <details>
-<summary> ⚠️ <ins>About Me </ins> </summary>
+<summary> <ins>About Me</ins> ⚠️ </summary>
 <br />
 
 I was a data janitor for CHLA during the Johnny Depp trials. Ask me about it. In the meantime, explore my previous solutions. Or check out my guides on data fundamentals. I enjoy cleaning data, developing custom solutions, strategic collaboration, and creative (data) storytelling. <br>
