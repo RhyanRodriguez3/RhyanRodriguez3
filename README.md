@@ -15,7 +15,7 @@ Synonyms <br>
 <summary> <ins>About Me</ins> ⚠️ </summary>
 <br />
 
-I was a data janitor for CHLA during the Johnny Depp trials. Ask me about it. In the meantime, explore my previous solutions. Or check out my guides on data fundamentals. I enjoy cleaning data, developing custom solutions, strategic collaboration, and creative (data) storytelling. <br>
+I was a data analyst for CHLA during the Depp v. Heard trials. Lets talk about it. In the meantime, explore my previous solutions. Or check out my guides on data fundamentals. I enjoy cleaning data, developing custom solutions, strategic collaboration, and creative (data) storytelling. <br>
 
 <!---
 Graduated from Youtube University,founded Gas Station Education. INSERT YOUTUBE LINK
