@@ -15,7 +15,7 @@ Synonyms <br>
 <summary> <ins>About Me</ins> ⚠️ </summary>
 <br />
 
-I was a data analyst for CHLA during the Depp v. Heard trials. Ask me about it. In the meantime, explore my previous solutions. Or check out my guides on data fundamentals. I enjoy cleaning data, developing custom solutions, strategic collaboration, and creative (data) storytelling. <br>
+I was a data analyst for CHLA during the Depp v. Heard trials. Ask me about it. In the meantime, explore my previous solutions if your an employer. Or check my fundamentals guides if your a student. If you made it this far, I love chess, UFC, and good book recommendation. <br>
 
 <!---
 Graduated from Youtube University,founded Gas Station Education. INSERT YOUTUBE LINK
