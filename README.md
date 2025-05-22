@@ -2,7 +2,7 @@
 <br >
 
 Da-ta Jan·i·tor 🔊: A data storytelling machine. 
-> *"He's a data janitor, was almost FANG ready but we got him at a steal."* - VP at UCLA Medical Center
+> *Honestly, for the work that he does, we got him at a steal."* - VP at UCLA Medical Center
 <br >
 
 Synonyms <br>
